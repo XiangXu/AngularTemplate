@@ -6,6 +6,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `npm install -g @angular/cli` to install CLI.
 
+Run `ng new hello-world --prefix hw` to create a new project.
+
 Run `ng g m products/product --flat -m app` to create a module.
 
 Run `ng g g products/product-detail` to create a guard.
